@@ -6,6 +6,8 @@ public class Hello {
     System.out.println("hello");
     
     System.out.println("reddys");
+    String s="gopal";
+    System.out.println(s);
 	}
 
 }
